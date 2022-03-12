@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Conscious-Mind
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Machine Learning and Deep Learning
+- 🌱 I’m currently learning ML | DL
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me https://www.linkedin.com/in/paul-david-son/
 
